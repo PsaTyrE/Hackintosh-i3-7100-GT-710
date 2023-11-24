@@ -5,8 +5,9 @@ You can use these if u have simillar specs .. otherwise just replace SSDTs , Con
 
 You can see the tutorial at dortania.io
 
-Specifications 🤩🤩
+
 # System Information
+Specifications 🤩🤩
 
 | Name          | Model               |
 | :------------ |:------------------: |
