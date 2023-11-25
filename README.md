@@ -19,4 +19,4 @@ Specifications 🤩🤩
 | MacOS         | Catalina            |
 |               | Bigsur              |
 |               | Monterey            |
-|: ------------ | ------------------: |
+
