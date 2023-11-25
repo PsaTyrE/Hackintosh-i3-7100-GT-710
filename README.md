@@ -16,4 +16,7 @@ Specifications 🤩🤩
 | SSD           | WD BLUE             |
 | Board         | Gigabyte H110M      |
 | Ethernet      | LucyRTL8125Ethernet |
-| MacOS         | Catalina - Bigsur   |
+| MacOS         | Catalina            |
+|               | Bigsur              |
+|               | Monterey            |
+|: ------------ | ------------------: |
